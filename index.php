@@ -13,7 +13,7 @@ require 'header.php';
 			<form action="Makecall.php" method="POST">
 
 			Enter your phone number: 
-			<input type="text" name="customer_phone" placeholder="19542405441" value="19542405411">
+			<input type="text" name="customer_phone" placeholder="19542405441" >
 
 			<button type="submit">Call me now</button>
 				
